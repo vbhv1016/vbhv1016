@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, react**
 
-- 💬 Ask me about **Python, ML, AL, NLP**
+- 💬 Ask me about **Python, ML, AI, NLP**
 
 - 📫 How to reach me **vishaltomar.tomar1@gmail.com**
 
